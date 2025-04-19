@@ -53,8 +53,8 @@ To undo, it sets:
 
 ## ⚙️ Ok cool, how do I use it?
 
-1. **Download** the latest `StayTen.exe` from the Releases page.  
-2. **Double‑click** `StayTen.exe`.  
+1. **Download** the latest `.exe` from the Releases page.  
+2. **Double‑click** `[Version].exe`.  
 3. Approve the **UAC prompt**.  
 4. Click one of the two buttons:
    - **Lock to Win10 21H2**  
