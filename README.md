@@ -6,7 +6,7 @@ Never be bothered by Windows 11 upgrade pop‑ups on Windows 10 again!
 
 ## 🚨 False‑Positive Warning
 
-Some antivirus products, including Defender may flag `StayTen.exe` as suspicious. This is a **false positive** caused by script‑to‑EXE packaging.  
+Some antivirus products, including Defender, may flag `StayTen.exe` as suspicious. This is a **false positive** caused by script‑to‑EXE packaging.  
 
 Either:
 - Disable your antivirus temporarily to let the files download
