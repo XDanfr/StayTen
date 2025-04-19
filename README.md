@@ -68,7 +68,7 @@ To undo, it sets:
 
 1. Clone the repo:
    ```powershell
-   git clone https://github.com/YourUser/StayTen.git
+   git clone https://github.com/XDanfr/StayTen.git
    cd StayTen
    ```
 2. Install PS2EXE (if needed):
