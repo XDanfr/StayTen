@@ -21,7 +21,7 @@ Either:
 - 🛑 **Block upgrade prompts**  
   Locks Windows Update to your chosen Windows 10 release (default: 21H2).
 - 🔄 **Undo changes**  
-  Switch to Windows 11 (default: 24H2) when you’re ready.
+  Switch to Windows 11 (default: 24H2) when you’re ready. I'll pray for you.
 - 🖱️ **GUI‑based**  
   Simple two‑button interface — no scary terminal.
 - 🔒 **Safe**  
